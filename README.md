@@ -22,6 +22,10 @@ Show the output image
 
  
 ## Program:
+```
+NAME:KATHIRVEL.A
+REG NO:212221230047
+```
 
 ``` Python
 # Import the necessary packages
