@@ -81,21 +81,19 @@ cv2.destroyAllWindows()
 ## Output:
 
 ### Display the input Image
-![image](https://github.com/PERARASU10/EROSION-AND-DILATION/assets/118348589/e5703e5a-27dd-458c-aadf-f50f71808a19)
+![Screenshot_20231107_132842](https://github.com/KathirvelAIDS/EROSION-AND-DILATION/assets/94911373/54ad6b91-85ac-4154-8b0d-ca3510671c49)
+
 
 
 
 ### Display the Eroded Image
-![image](https://github.com/PERARASU10/EROSION-AND-DILATION/assets/118348589/3dd5ded5-2105-416f-bbbc-9dd54f0af116)
+![Screenshot_20231107_132852](https://github.com/KathirvelAIDS/EROSION-AND-DILATION/assets/94911373/c65f7e15-9c30-4dc6-bce3-4b84a30dbbf7)
 
-![image](https://github.com/PERARASU10/EROSION-AND-DILATION/assets/118348589/794c1709-12ca-45bd-b651-bfda53d4a6e2)
 
 
 ### Display the Dilated Image
+![Screenshot_20231107_132906](https://github.com/KathirvelAIDS/EROSION-AND-DILATION/assets/94911373/0c1bcfb5-016c-4e44-a744-f51dfb349507)
 
-![image](https://github.com/PERARASU10/EROSION-AND-DILATION/assets/118348589/10dd4283-9943-4b71-b5d2-5e61e8ca11ae)
-
-![image](https://github.com/PERARASU10/EROSION-AND-DILATION/assets/118348589/b97d3589-9eb1-4d5e-8ca7-e446c7cbf7db)
 
 
 ## Result
